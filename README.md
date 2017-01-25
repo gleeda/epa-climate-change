@@ -2,7 +2,10 @@
 
 President Trump [has ordered the EPA](http://www.reuters.com/article/us-usa-trump-epa-climatechange-idUSKBN15906G) to remove their [climate change page](https://www.epa.gov/climatechange) from their website.
 
-People are already working to download all the information there. This repository is intended to be a temporary solution to keep the material accessible on the web. They have a ton of information, so please open pull requests to add more pages to this collection.
+People are already working to download all the information there. This repository is intended to be a temporary solution to keep the material accessible on the web. They have a ton of information, so please open pull requests to add more pages to this collection:
+
+1. Pick a page from the [EPA's site](https://www.epa.gov/climatechange).
+2. Open a pull request on this repository to add the page. (See other pages for examples. All pages are in markdown. Try to include graphs.)
 
 [Here's the site on the Way Back Machine](https://web.archive.org/web/20170125022503/https://www.epa.gov/climatechange), in case it does go down super soon.
 
