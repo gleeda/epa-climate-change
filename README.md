@@ -9,8 +9,8 @@ People are already working to download all the information there. This repositor
 If anyone knows of a similar project, please link to it here.
 
 ## Why is the climate changing?
-- [Basic Information](https://github.com/nickyr/epa-climate-change/blob/master/basic_information.md)
-- [Causes of Climate Change](https://github.com/nickyr/epa-climate-change/blob/master/causes_of_climate_change.md)
+- [Basic Information](https://github.com/nickyr/epa-climate-change/blob/master/pages/basic_information.md)
+- [Causes of Climate Change](https://github.com/nickyr/epa-climate-change/blob/master/pages/causes_of_climate_change.md)
 - Future of Climate Change
 - Greenhouse Gas Emissions
 
@@ -23,5 +23,5 @@ If anyone knows of a similar project, please link to it here.
 ## What can we do about this change?
 - Reducing Emissions
 - Adapting to Change
-- [What EPA is Doing](https://github.com/nickyr/epa-climate-change/blob/master/what_epa_is_doing.md)
-- [What You Can Do](https://github.com/nickyr/epa-climate-change/blob/master/what_you_can_do.md)
+- [What EPA is Doing](https://github.com/nickyr/epa-climate-change/blob/master/pages/what_epa_is_doing.md)
+- [What You Can Do](https://github.com/nickyr/epa-climate-change/blob/master/pages/what_you_can_do.md)
