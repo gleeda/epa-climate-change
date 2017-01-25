@@ -4,6 +4,8 @@ President Trump [has ordered the EPA](http://www.reuters.com/article/us-usa-trum
 
 People are already working to download all the information there. This repository is intended to be a temporary solution to keep the material accessible on the web. They have a ton of information, so please open pull requests to add more pages to this collection.
 
+[Here's the site on the Way Back Machine](https://web.archive.org/web/20170125022503/https://www.epa.gov/climatechange), in case it does go down super soon.
+
 If anyone knows of a similar project, please link to it here.
 
 ## Why is the climate changing?
