@@ -1,4 +1,6 @@
-# Earth's temperature is a balancing act
+# Causes of Climate Change
+
+## Earth's temperature is a balancing act
 
 Earth's temperature depends on the balance between energy entering and leaving the planet’s system. When incoming energy from the sun is absorbed by the Earth system, Earth warms. When the sun’s energy is reflected back into space, Earth avoids warming. When absorbed energy is released back into space, Earth cools. Many factors, both natural and human, can cause changes in Earth’s energy balance, including:
 
@@ -13,7 +15,7 @@ This record shows that the climate system varies naturally over a wide range of 
 
 Recent climate changes, however, cannot be explained by natural causes alone. Research indicates that natural causes do not explain most observed warming, especially warming since the mid-20th century. Rather, it is extremely likely that human activities have been the dominant cause of that warming.[2]
 
-# The greenhouse effect causes the atmosphere to retain heat
+## The greenhouse effect causes the atmosphere to retain heat
 When sunlight reaches Earth’s surface, it can either be reflected back into space or absorbed by Earth. Once absorbed, the planet releases some of the energy back into the atmosphere as heat (also called infrared radiation). Greenhouse gases like water vapor (H2O), carbon dioxide (CO2), and methane (CH4) absorb energy, slowing or preventing the loss of heat to space. In this way, GHGs act like a blanket, making Earth warmer than it would otherwise be. This process is commonly known as the “greenhouse effect.”
 
 > **Radiative Forcing**
@@ -24,7 +26,7 @@ When sunlight reaches Earth’s surface, it can either be reflected back into sp
 
 > NOAA’s Annual GHG Index, which tracks changes in radiative forcing from GHGs over time, shows that such forcing from human-added GHGs has increased 27.5 percent between 1990 and 2009. Increases in CO2 in the atmosphere are responsible for 80% of the increase. The contribution to radiative forcing by CH4 and CFCs has been nearly constant or declining, respectively, in recent years.
 
-## The role of the greenhouse effect in the past
+#### The role of the greenhouse effect in the past
 Over the last several hundred thousand years, CO2 levels varied in tandem with the glacial cycles. During warm "interglacial" periods, CO2 levels were higher. During cool "glacial" periods, CO2 levels were lower.[2] The heating or cooling of Earth’s surface and oceans can cause changes in the natural sources and sinks of these gases, and thus change greenhouse gas concentrations in the atmosphere.[2] These changing concentrations are thought to have acted as a positive feedback, amplifying the temperature changes caused by long-term shifts in Earth’s orbit.[2]
 
 > **Feedbacks Can Amplify or Reduce Changes**
@@ -47,15 +49,15 @@ Over the last several hundred thousand years, CO2 levels varied in tandem with t
 
 > These changes lead to higher concentrations of atmospheric GHGs and contribute to increased warming.
 
-## The recent role of the greenhouse effect
+#### The recent role of the greenhouse effect
 
 Since the Industrial Revolution began around 1750, human activities have contributed substantially to climate change by adding CO2 and other heat-trapping gases to the atmosphere. These greenhouse gas emissions have increased the greenhouse effect and caused Earth’s surface temperature to rise. The primary human activity affecting the amount and rate of climate change is greenhouse gas emissions from the burning of fossil fuels.
 
-## The main greenhouse gases
+#### The main greenhouse gases
 
 The most important GHGs directly emitted by humans include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and several others. The sources and recent trends of these gases are detailed below.
 
-### Carbon dioxide
+###### Carbon dioxide
 
 Carbon dioxide is the primary greenhouse gas that is contributing to recent climate change. CO2 is absorbed and emitted naturally as part of the carbon cycle, through plant and animal respiration, volcanic eruptions, and ocean-atmosphere exchange. Human activities, such as the burning of fossil fuels and changes in land use, release large amounts of CO2, causing concentrations in the atmosphere to rise.
 
@@ -69,7 +71,7 @@ Human activities currently release over 30 billion tons of CO2 into the atmosphe
 
 For more information on the human and natural sources and sinks of CO2 emissions, and actions that can reduce emissions, see the Carbon Dioxide page in the Greenhouse Gas Emissions website.
 
-### Methane
+###### Methane
 
 Methane is produced through both natural and human activities. For example, natural wetlands, agricultural activities, and fossil fuel extraction and transport all emit CH4.
 
@@ -77,12 +79,12 @@ Methane is more abundant in Earth’s atmosphere now than at any time in at leas
 
 For more information on CH4 emissions and sources, and actions that can reduce emissions, see EPA’s Methane page in the Greenhouse Gas Emissions website. For information on how methane is impacting the Arctic, see the EPA report Methane and Black Carbon Impacts on the Arctic.
 
-### Nitrous oxide
+###### Nitrous oxide
 
 Nitrous oxide is produced through natural and human activities, mainly through agricultural activities and natural biological processes. Fuel burning and some other processes also create N2O. Concentrations of N2O have risen approximately 20% since the start of the Industrial Revolution, with a relatively rapid increase toward the end of the 20th century.[2]
 Overall, N2O concentrations have increased more rapidly during the past century than at any time in the past 22,000 years.[2] For more information on N2O emissions and sources, and actions that can reduce emissions, see EPA’s Nitrous Oxide page in the Greenhouse Gas Emissions website.
 
-## Other greenhouse gases
+#### Other greenhouse gases
 
 - Water vapor is the most abundant greenhouse gas and also the most important in terms of its contribution to the natural greenhouse effect, despite having a short atmospheric lifetime. Some human activities can influence local water vapor levels. However, on a global scale, the concentration of water vapor is controlled by temperature, which influences overall rates of evaporation and precipitation.[2] Therefore, the global concentration of water vapor is not substantially affected by direct human emissions.
 
@@ -92,7 +94,7 @@ Overall, N2O concentrations have increased more rapidly during the past century 
 
 For more information on greenhouse gas emissions, see the Greenhouse Gas Emissions website, including an expanded discussion of global warming potentials and how they are used to measure the relative strengths of greenhouse gases. To learn more about actions that can reduce these emissions, see What You Can Do.
 
-## Other climate forcers
+#### Other climate forcers
 Particles and aerosols in the atmosphere can also affect climate. Human activities such as burning fossil fuels and biomass contribute to emissions of these substances, although some aerosols also come from natural sources such as volcanoes and marine plankton.
 
 - Black carbon (BC) is a solid particle or aerosol, not a gas, but it also contributes to warming of the atmosphere. Unlike GHGs, BC can directly absorb incoming and reflected sunlight in addition to absorbing infrared radiation. BC can also be deposited on snow and ice, darkening the surface and thereby increasing the snow's absorption of sunlight and accelerating melt. For information on how BC is impacting the Arctic, see EPA assessment Methane and Black Carbon Impacts on the Arctic.
@@ -103,7 +105,7 @@ Particles and aerosols in the atmosphere can also affect climate. Human activiti
 
 For more information on greenhouse gas emissions, see the Greenhouse Gas Emissions website. To learn more about actions that can reduce these emissions, see What EPA is Doing and What You Can Do.
 
-# Changes in the sun’s energy affect how much energy reaches Earth’s system
+## Changes in the sun’s energy affect how much energy reaches Earth’s system
 
 Climate is influenced by natural changes that affect how much solar energy reaches Earth. These changes include changes within the sun and changes in Earth’s orbit.
 
@@ -111,16 +113,16 @@ Changes occurring in the sun itself can affect the intensity of the sunlight tha
 
 Changes in the shape of Earth’s orbit as well as the tilt and position of Earth’s axis can also affect the amount of sunlight reaching Earth’s surface.[1][2]
 
-## The role of the sun’s energy in the past
+#### The role of the sun’s energy in the past
 Changes in the sun’s intensity have influenced Earth’s climate in the past. For example, the so-called “Little Ice Age” between the 17th and 19th centuries may have been partially caused by a low solar activity phase from 1645 to 1715, which coincided with cooler temperatures. The “Little Ice Age” refers to a slight cooling of North America, Europe, and probably other areas around the globe.[2]
 
 Changes in Earth’s orbit have had a big impact on climate over tens to hundreds of thousands of years. In fact, the amount of summer sunshine on the Northern Hemisphere, which is affected by changes in the planet’s orbit, appears to drive the advance and retreat of ice sheets. These changes appear to be the primary cause of past cycles of ice ages, in which Earth has experienced long periods of cold temperatures (ice ages), as well as shorter interglacial periods (periods between ice ages) of relatively warmer temperatures.[1][2]
 
-## The recent role of the sun’s energy
+#### The recent role of the sun’s energy
 
 Changes in solar energy continue to affect climate. However, over the last 11-year solar cycle, solar output has been lower than it has been since the mid-20th century, and therefore does not explain the recent warming of the earth.[2] Similarly, changes in the shape of Earth’s orbit as well as the tilt and position of Earth’s axis affect temperature on very long timescales (tens to hundreds of thousands of years), and therefore cannot explain the recent warming.
 
-# Changes in reflectivity affect how much energy enters Earth’s system
+## Changes in reflectivity affect how much energy enters Earth’s system
 
 When sunlight reaches Earth, it can be reflected or absorbed. The amount that is reflected or absorbed depends on Earth’s surface and atmosphere. Light-colored objects and surfaces, like snow and clouds, tend to reflect most sunlight, while darker objects and surfaces, like the ocean, forests, or soil, tend to absorb more sunlight.
 
@@ -128,19 +130,19 @@ The term albedo refers to the amount of solar radiation reflected from an object
 
 Reflectivity is also affected by aerosols. Aerosols are small particles or liquid droplets in the atmosphere that can absorb or reflect sunlight. Unlike greenhouse gases, the climate effects of aerosols vary depending on what they are made of and where they are emitted. Those aerosols that reflect sunlight, such as particles from volcanic eruptions or sulfur emissions from burning coal, have a cooling effect. Those that absorb sunlight, such as black carbon (a part of soot), have a warming effect.
 
-## The role of reflectivity in the past
+#### The role of reflectivity in the past
 
 Natural changes in reflectivity, like the melting of sea ice, have contributed to climate change in the past, often acting as feedbacks to other processes.
 
 Volcanoes have played a noticeable role in climate. Volcanic particles that reach the upper atmosphere can reflect enough sunlight back to space to cool the surface of the planet by a few tenths of a degree for several years.[2] These particles are an example of cooling aerosols. Volcanic particles from a single eruption do not produce long-term change because they remain in the atmosphere for a much shorter time than GHGs.[2]
 
-## The recent role of reflectivity
+#### The recent role of reflectivity
 
 Human changes in land use and land cover have changed Earth’s reflectivity. Processes such as deforestation, reforestation, desertification, and urbanization often contribute to changes in climate in the places they occur. These effects may be significant regionally, but are smaller when averaged over the entire globe.
 
 In addition, human activities have generally increased the number of aerosol particles in the atmosphere. Overall, human-generated aerosols have a net cooling effect offsetting about one-third of the total warming effect associated with human greenhouse gas emissions. Reductions in overall aerosol emissions can therefore lead to more warming. However, targeted reductions in black carbon emissions can reduce warming.[1]
 
-# References
+## References
 [1] USGCRP (2014). Climate Change Impacts in the United States: The Third National Climate Assessment. [Melillo, Jerry M., Terese (T.C.) Richmond, and Gary W. Yohe, Eds.] U.S. Global Change Research Program.
 
 [2] IPCC (2013). Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
