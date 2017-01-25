@@ -15,6 +15,10 @@ This record shows that the climate system varies naturally over a wide range of 
 
 Recent climate changes, however, cannot be explained by natural causes alone. Research indicates that natural causes do not explain most observed warming, especially warming since the mid-20th century. Rather, it is extremely likely that human activities have been the dominant cause of that warming.[2]
 
+![Graph displaying that models accounting solely for natural factors understate current climate trends by ~1 degree F, compared to models that include human factors, which accurately predict observed temperatures.](https://github.com/nickyr/epa-climate-change/blob/master/images/models-observed-human-natural.png)
+
+*Models that account only for the effects of natural processes are not able to explain the warming observed over the past century. Models that also account for the greenhouse gases emitted by humans are able to explain this warming.*
+
 ## The greenhouse effect causes the atmosphere to retain heat
 When sunlight reaches Earth’s surface, it can either be reflected back into space or absorbed by Earth. Once absorbed, the planet releases some of the energy back into the atmosphere as heat (also called infrared radiation). Greenhouse gases like water vapor (H2O), carbon dioxide (CO2), and methane (CH4) absorb energy, slowing or preventing the loss of heat to space. In this way, GHGs act like a blanket, making Earth warmer than it would otherwise be. This process is commonly known as the “greenhouse effect.”
 
