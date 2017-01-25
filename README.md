@@ -10,6 +10,8 @@ If anyone knows of a similar project, please link to it here.
 
 - [A good long term solution](https://www.kickstarter.com/projects/592742410/azimuth-climate-data-backup-project?ref=user_menu) (backing up all the climate databases)
 
+And now for the content...
+
 ## Why is the climate changing?
 - [Basic Information](https://github.com/nickyr/epa-climate-change/blob/master/pages/basic_information.md)
 - [Causes of Climate Change](https://github.com/nickyr/epa-climate-change/blob/master/pages/causes_of_climate_change.md)
