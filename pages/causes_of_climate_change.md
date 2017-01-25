@@ -33,6 +33,12 @@ When sunlight reaches Earth’s surface, it can either be reflected back into sp
 #### The role of the greenhouse effect in the past
 Over the last several hundred thousand years, CO2 levels varied in tandem with the glacial cycles. During warm "interglacial" periods, CO2 levels were higher. During cool "glacial" periods, CO2 levels were lower.[2] The heating or cooling of Earth’s surface and oceans can cause changes in the natural sources and sinks of these gases, and thus change greenhouse gas concentrations in the atmosphere.[2] These changing concentrations are thought to have acted as a positive feedback, amplifying the temperature changes caused by long-term shifts in Earth’s orbit.[2]
 
+![Graph showing correlating increases and decreases in CO2 and temperature over 800,000 years.](https://github.com/nickyr/epa-climate-change/blob/master/images/co2temp800kyrs-large.jpg)
+
+*Estimates of the Earth’s changing CO2 concentration (top) and Antarctic temperature (bottom), based on analysis of ice core data extending back 800,000 years. Until the past century, natural factors caused atmospheric CO2 concentrations to vary within a range of about 180 to 300 parts per million by volume (ppmv). Warmer periods coincide with periods of relatively high CO2 concentrations. Note: The past century’s temperature changes and rapid CO2 rise (to 400 ppmv in 2015) are not shown here. Increases over the past half century are shown in the Recent Role section.*
+
+*Source: Based on data appearing in [NRC (2010)](http://nas-sites.org/americasclimatechoices/sample-page/panel-reports/87-2/).*
+
 > **Feedbacks Can Amplify or Reduce Changes**
 
 > Climate feedbacks amplify or reduce direct warming and cooling effects. They do not change the planet’s temperature directly. Feedbacks that amplify changes are called positive feedbacks. Feedbacks that counteract changes are called negative feedbacks. Feedbacks are associated with changes in surface reflectivity, clouds, water vapor, and the carbon cycle.
@@ -57,6 +63,12 @@ Over the last several hundred thousand years, CO2 levels varied in tandem with t
 
 Since the Industrial Revolution began around 1750, human activities have contributed substantially to climate change by adding CO2 and other heat-trapping gases to the atmosphere. These greenhouse gas emissions have increased the greenhouse effect and caused Earth’s surface temperature to rise. The primary human activity affecting the amount and rate of climate change is greenhouse gas emissions from the burning of fossil fuels.
 
+![Graph showing increase in 3 GHGs (CO2, CH4, & N2O). From 0 to ~1800, concentrations of each were in the following ranges: CO2: 280ppm, CH4: 720ppb, N2O: 270ppb. A sharp increase begins in 1900. By 2000, CO2 approaches 400ppm, CH4 2000ppb, and N2O 320ppb.](https://github.com/nickyr/epa-climate-change/blob/master/images/ghgconc2000-large.jpg)
+
+*This graph shows the increase in greenhouse gas (GHG) concentrations in the atmosphere over the last 2,000 years. Increases in concentrations of these gases since 1750 are due to human activities in the industrial era. Concentration units are parts per million (ppm) or parts per billion (ppb), indicating the number of molecules of the greenhouse gas per million or billion molecules of air.*
+
+*Source: [U.S. National Climate Assessment (2014)](http://nca2014.globalchange.gov/).*
+
 #### The main greenhouse gases
 
 The most important GHGs directly emitted by humans include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and several others. The sources and recent trends of these gases are detailed below.
@@ -71,7 +83,15 @@ Some volcanic eruptions released large quantities of CO2 in the distant past. Ho
 
 Human activities currently release over 30 billion tons of CO2 into the atmosphere every year.[2] The resultant build-up of CO2 in the atmosphere is like a tub filling with water, where more water flows from the faucet than the drain can take away.
 
-> If the amount of water flowing into a bathrub is greater than the amount of water leaving through the drain, the water level will rise. CO2 emissions are like the flow of water into the world's carbon bathtub. "Sources" of CO2 emissions such as fossil fuel burning, cement manufacture, and land use are like the bathtub's faucet. "Sinks" of CO2 in the ocean and on land (such as plants) that take up CO2 are like the drain. Today, human activities have turned up the flow from the CO2 "faucet," which is much larger than the "drain" can cope with, and the level of CO2 in the atmosphere (like the level of water in a bathtub) is rising.
+![Graph showing increasing Atmospheric CO2 at Mauna Loa Observatory from the 1950's to 2010.](https://github.com/nickyr/epa-climate-change/blob/master/images/keelingcurve-large.png)
+
+*Atmospheric carbon dioxide concentration has risen from pre-industrial levels of 280 parts per million by volume (ppmv) to over 401 ppmv in 2016. Since 1959 alone (shown here), concentrations have risen by more than 85 ppmv. The yearly rise and fall in the chart reflects the growth and decay or northern hemisphere vegetation.*
+
+*Source: [NOAA](https://scripps.ucsd.edu/programs/keelingcurve/)*
+
+![Image showing a bathtub. Sources of carbon are the faucet, while sinks of carbon are the drain.](https://github.com/nickyr/epa-climate-change/blob/master/images/carbonbathtub.jpg)
+
+*If the amount of water flowing into a bathrub is greater than the amount of water leaving through the drain, the water level will rise. CO2 emissions are like the flow of water into the world's carbon bathtub. "Sources" of CO2 emissions such as fossil fuel burning, cement manufacture, and land use are like the bathtub's faucet. "Sinks" of CO2 in the ocean and on land (such as plants) that take up CO2 are like the drain. Today, human activities have turned up the flow from the CO2 "faucet," which is much larger than the "drain" can cope with, and the level of CO2 in the atmosphere (like the level of water in a bathtub) is rising.*
 
 For more information on the human and natural sources and sinks of CO2 emissions, and actions that can reduce emissions, see the Carbon Dioxide page in the Greenhouse Gas Emissions website.
 
@@ -116,6 +136,12 @@ Climate is influenced by natural changes that affect how much solar energy reach
 Changes occurring in the sun itself can affect the intensity of the sunlight that reaches Earth’s surface. The intensity of the sunlight can cause either warming (during periods of stronger solar intensity) or cooling (during periods of weaker solar intensity). The sun follows a natural 11-year cycle of small ups and downs in intensity, but the effect on Earth’s climate is small.[1]
 
 Changes in the shape of Earth’s orbit as well as the tilt and position of Earth’s axis can also affect the amount of sunlight reaching Earth’s surface.[1][2]
+
+![Graph comparing solar irradiance and difference in global surface temperature. Solar irradiance has been regularly cycling, while global surface temperatures have been steadily increasing.](https://github.com/nickyr/epa-climate-change/blob/master/images/sunsenergytemp-large.png)
+
+*The sun’s energy received at the top of Earth’s atmosphere has been measured by satellites since 1978. It has followed its natural 11-year cycle of small ups and downs, but with no net increase (bottom). Over the same period, global temperature has risen markedly (top).*
+
+*Source: [USGCRP (2009)](http://downloads.globalchange.gov/usimpacts/pdfs/climate-impacts-report.pdf)*
 
 #### The role of the sun’s energy in the past
 Changes in the sun’s intensity have influenced Earth’s climate in the past. For example, the so-called “Little Ice Age” between the 17th and 19th centuries may have been partially caused by a low solar activity phase from 1645 to 1715, which coincided with cooler temperatures. The “Little Ice Age” refers to a slight cooling of North America, Europe, and probably other areas around the globe.[2]
