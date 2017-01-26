@@ -2,16 +2,14 @@
 
 President Trump [has ordered the EPA](http://www.reuters.com/article/us-usa-trump-epa-climatechange-idUSKBN15906G) to remove their [climate change page](https://www.epa.gov/climatechange) from their website.
 
-People are already working to download all the information there. This repository is intended to be a temporary solution to keep the material accessible on the web. They have a ton of information, so please open pull requests to add more pages to this collection:
+Many people have been working to back up scientific data since Trump won the election (see [here](https://www.kickstarter.com/projects/592742410/azimuth-climate-data-backup-project?ref=user_menu) and [here](http://www.ppehlab.org/), among others). This repository is intended to save the accessible, easily readable content from the EPA's website so people can still browse it and learn about climate change. 
+
+The EPA's site should also still be available on the [Way Back Machine](https://web.archive.org/web/20170125022503/https://www.epa.gov/climatechange).
+
+If you're familiar with Github and would like to add content to this repository:
 
 1. Pick a page from the [EPA's site](https://www.epa.gov/climatechange).
 2. Open a pull request on this repository to add the page. (See other pages for examples. All pages are in markdown. Try to include graphs.)
-
-[Here's the site on the Way Back Machine](https://web.archive.org/web/20170125022503/https://www.epa.gov/climatechange), in case it does go down super soon.
-
-If anyone knows of a similar project, please link to it here.
-
-- [A good long term solution](https://www.kickstarter.com/projects/592742410/azimuth-climate-data-backup-project?ref=user_menu) (backing up all the climate databases)
 
 And now for the content...
 
