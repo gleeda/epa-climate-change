@@ -18,7 +18,7 @@ And now for the content...
 ## Why is the climate changing?
 - [Basic Information](https://github.com/nickyr/epa-climate-change/blob/master/pages/basic_information.md)
 - [Causes of Climate Change](https://github.com/nickyr/epa-climate-change/blob/master/pages/causes_of_climate_change.md)
-- Future of Climate Change
+- [Future of Climate Change](https://github.com/nickyr/epa-climate-change/blob/master/pages/future_of_climate_change.md)
 - Greenhouse Gas Emissions
 
 ## How is the climate changing?
