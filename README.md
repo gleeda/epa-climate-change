@@ -1,5 +1,7 @@
 # The EPA's Climate Change Site
 
+> **UPDATE:** The Trump administration [has decided against removing the site for the time being](https://www.scientificamerican.com/article/trump-administration-backtracks-on-plan-to-take-down-epa-climate-web-page/). Since this project is focused on keeping the material easily accessible and the [Internet Archive](https://archive.org/) and many others are backing up all the data, I'm going to halt work on this until they change their minds again. 
+
 President Trump [has ordered the EPA](http://www.reuters.com/article/us-usa-trump-epa-climatechange-idUSKBN15906G) to remove their [climate change page](https://www.epa.gov/climatechange) from their website.
 
 Many people have been working to back up scientific data since Trump won the election (see [here](https://www.kickstarter.com/projects/592742410/azimuth-climate-data-backup-project?ref=user_menu) and [here](http://www.ppehlab.org/), among others). This repository is intended to save the accessible, easily readable content from the EPA's website so people can still browse it and learn about climate change. 
